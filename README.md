@@ -1,7 +1,6 @@
 - 👋 Hi, I am Malla Jagan
 - 👀 I’m interested in Software Developer Role 
 - 🌱 I’m currently learning Full stack java Developer course
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me Gmail-->mallajagan2001@gmail.com
                       
 
